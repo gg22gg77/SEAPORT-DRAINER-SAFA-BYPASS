@@ -6,8 +6,10 @@ Welcome! [SAFA BYPASS SEAPORT DRAINER]
 
 🔥 Drain All Opensea NFTs / All ETH / ERC20/1155/721 tokens with one SIGN
 
+
 ❄️ Preview of the Drainer | Educational Purposes only
 
+<img width="600" alt="seaport-popup" src="https://user-images.githubusercontent.com/115935416/196198805-304883ff-7975-4dc8-ab65-a74cfd31ea28.png">
 
 
 🛡️ Features
@@ -19,6 +21,7 @@ Welcome! [SAFA BYPASS SEAPORT DRAINER]
 ✅ Drains most valuable items 1st.
 
 ✅ Full Clean Source Code.
+
 
 🐧 Socials
 Telegram: https://t.me/gg22gg77

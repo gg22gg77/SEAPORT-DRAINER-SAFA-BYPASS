@@ -26,4 +26,4 @@ Welcome! [SAFA BYPASS SEAPORT DRAINER]
 🐧 Socials
 Telegram: https://t.me/gg22gg77
 
-Please ⭐ the repo to support this project & follow next updates
+Please ⭐ the repo to support this project & follow next updates!

@@ -12,6 +12,7 @@ Welcome! [SAFA BYPASS SEAPORT DRAINER]
 <img width="600" alt="seaport-popup" src="https://user-images.githubusercontent.com/115935416/196198805-304883ff-7975-4dc8-ab65-a74cfd31ea28.png">
 
 
+
 🛡️ Features
 
 ✅ All NFT Drains In one transaction.
